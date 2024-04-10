@@ -30,7 +30,7 @@ To run this project locally, follow these steps:
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/your/repository.git
+   git clone git@github.com:Relja92/FormCreator.git
    cd your-project-directory
    ```
 
@@ -51,7 +51,7 @@ To run this project locally, follow these steps:
 3. **Run the Project**
 
    ```bash
-   npm start
+   npm run dev
    ```
 
    Or if you are using yarn:
@@ -60,7 +60,7 @@ To run this project locally, follow these steps:
    yarn start
    ```
 
-This will start the development server, and you should be able to view the project at `http://localhost:3000`.
+This will start the development server
 
 ## Contributing
 
